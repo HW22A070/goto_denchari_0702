@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7be84851efcc84b469d90938a973c5ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - storyText: {instanceID: 0}
+  - characterName: {instanceID: 0}
+  - characterNameObject: {instanceID: 0}
+  - windowTextObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

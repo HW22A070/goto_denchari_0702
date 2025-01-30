@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1380770552283520717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5701397966167679309}
+  - component: {fileID: 7503746465688898008}
+  m_Layer: 0
+  m_Name: NameCreater
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5701397966167679309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380770552283520717}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7503746465688898008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380770552283520717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9c2dd0bf5eed412a9454c7f2b74a95e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastNamesOrigin:
+  - lastName: "\u5C71\u7530"
+    rarity: 0
+  - lastName: "\u7121\u6C17"
+    rarity: 2
+  - lastName: "\u4F50\u3005\u6728"
+    rarity: 0
+  - lastName: "\u96F7\u96FB"
+    rarity: 3
+  - lastName: "\u4F50\u85E4"
+    rarity: 0
+  - lastName: "\u5C0F\u9CE5\u904A"
+    rarity: 3
+  - lastName: "\u7687"
+    rarity: 3
+  - lastName: "\u4E00"
+    rarity: 2
+  - lastName: "\u91CE\u3005\u6751"
+    rarity: 1
+  - lastName: "\u4ECA\u5DDD"
+    rarity: 1
+  - lastName: "\u5C71\u53E3"
+    rarity: 0
+  - lastName: "\u91CE\u7530"
+    rarity: 0
+  - lastName: "\u6625\u65E5\u4E95"
+    rarity: 2
+  - lastName: "\u5B87\u90FD"
+    rarity: 2
+  - lastName: "\u897F"
+    rarity: 1
+  - lastName: "\u4E8C\u5BAE"
+    rarity: 1
+  firstNamesOrigin:
+  - firstName: "\u592A\u90CE"
+    rarity: 0
+  - firstName: "\u529B"
+    rarity: 2
+  - firstName: "\u4E94\u53F3\u885B\u9580"
+    rarity: 2
+  - firstName: "\u5149"
+    rarity: 3
+  - firstName: "\u5065\u592A"
+    rarity: 1
+  - firstName: "\u6E90\u4E94\u90CE"
+    rarity: 1
+  - firstName: "\u516D\u90CE\u592A"
+    rarity: 2
+  - firstName: "\u5C0F\u904A\u4E09"
+    rarity: 3
+  - firstName: "\u6625\u6A39"
+    rarity: 1
+  - firstName: "\u4E00"
+    rarity: 1
+  - firstName: "\u660E"
+    rarity: 0
+  - firstName: "\u8AA0"
+    rarity: 0
+  - firstName: "\u525B"
+    rarity: 2
+  - firstName: "\u654F\u6210"
+    rarity: 2
+  - firstName: "\u5927\u548C"
+    rarity: 1
+  - firstName: "\u904A\u52A9"
+    rarity: 0
+  - firstName: "\u76F4\u77E2"
+    rarity: 0
+  rarityProbabilities:
+  - 30
+  - 15
+  - 50
+  - 5
